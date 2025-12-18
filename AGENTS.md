@@ -1,6 +1,6 @@
 # Unison AI Agent Guide
 
-This guide provides context and instructions for AI agents to effectively write and test Unison code using the Unison MCP server.
+This guide provides context and instructions for AI agents when using the Unison MCP server.
 
 ## When to load additional context
 
