@@ -31,9 +31,7 @@ The `lib` namespace is reserved for dependencies. DO NOT modify code in the `lib
 3. `typecheck-code` with the UCM MCP server
 4. `run-tests` with the UCM MCP server
 
-I your code does not typecheck try the following, try loading the `unison-language-guide.md` context for syntax help.
-
-Always check that your code typechecks and tests pass. Always check with the user before applying changes to the codebase. 
+Always check that your code typechecks and tests pass. 
 
 ### Naming
 
