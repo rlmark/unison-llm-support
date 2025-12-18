@@ -37,6 +37,7 @@ Always check that your code typechecks and tests pass. Always check with the use
 
 ### Naming
 
+- Namespace prefixes may be used to group related code, e.g. `api.models`, `api.controllers`, versus `userApiModel`. 
 - `Optional` uses `None`/`Some` (not `Nothing`/`Just`)
 - Strings are called `Text`
 - Helper functions: use `go` or `loop`
